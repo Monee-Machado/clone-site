@@ -1,0 +1,28 @@
+h1 {
+  color: wheat;
+}
+
+header {
+  color: wheat;
+}
+
+body {
+  background-color: rgb(32, 28, 28);
+
+  p {
+    color: wheat
+  }
+
+  div {
+    color: wheat
+  }
+
+}
+
+.font-white {
+  color: white;
+}
+
+.font-black {
+  color: black;
+}
